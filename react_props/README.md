@@ -1,0 +1,1 @@
+readme fie for react props 
